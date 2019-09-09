@@ -16,11 +16,12 @@ public class MyClass {
     }
 
     private static void feature3() {
-        // TODO - print "Feature #3"
+        System.out.println("Feauture 3"); //Prints "Feauture 3" in the console
     }
 
     private static void feature4() {
         // TODO - print "Feature #4"
+        System.out.println();
     }
 
     private static void feature5() {
